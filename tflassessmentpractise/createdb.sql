@@ -7,7 +7,7 @@ use assessmentdb;
 CREATE TABLE employees(
 	id INT AUTO_INCREMENT PRIMARY KEY,
     userId INT,
-	firstname VARCHAR(20) NOT NULL,
+	firstname VARCHAR(30) NOT NULL,
 	lastname VARCHAR(20) NOT NULL,
 	email VARCHAR(50) NOT NULL,
 	contact VARCHAR(10) NOT NULL
