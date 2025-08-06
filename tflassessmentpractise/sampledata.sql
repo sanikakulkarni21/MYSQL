@@ -9,7 +9,7 @@ insert into employees(userId,firstname, lastname, email, contact)values(6,"Vaibh
 insert into employees(userId,firstname, lastname, email, contact)values(7,"Shree","pawer","spawar@gmail.com","8654653254");
 insert into employees(userId,firstname, lastname, email, contact)values(8,"Aniket","Zarekar","Zarekar@gmail.com","9764263254");
 
-
+SELECT * FROM employees;
 
 
 INSERT INTO subjects(title) VALUES('COREJAVA');
@@ -20,7 +20,7 @@ INSERT INTO subjects(title) VALUES('REACT');
 INSERT INTO subjects(title) VALUES('ANGULAR');
 INSERT INTO subjects(title) VALUES('CSHARP');
 INSERT INTO subjects(title) VALUES('JAVASCRIPT');
-
+SELECT * FROM subjects;
 
 
 insert into employeeperformance(employeeid, test, communication, congition, interview)values(1,"poor", "good","good","poor");
@@ -31,3 +31,5 @@ insert into employeeperformance(employeeid, test, communication, congition, inte
 insert into employeeperformance(employeeid, test, communication, congition, interview)values(6,"poor", "good","good","poor");
 insert into employeeperformance(employeeid, test, communication, congition, interview)values(7,"poor", "good","good","poor");
 insert into employeeperformance(employeeid, test, communication, congition, interview)values(8,"poor", "good","good","poor");
+
+SELECT * FROM employeeperformance;
