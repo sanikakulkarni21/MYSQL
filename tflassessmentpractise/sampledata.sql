@@ -42,7 +42,7 @@ INSERT INTO subjectmatterexperts(employeeid,subjectid,certificationdate)VALUES(3
 INSERT INTO subjectmatterexperts(employeeid,subjectid,certificationdate)VALUES(2,5,'2023-04-18');
 INSERT INTO subjectmatterexperts(employeeid,subjectid,certificationdate)VALUES(3,7,'2023-01-25');
 INSERT INTO subjectmatterexperts(employeeid,subjectid,certificationdate)VALUES(4,2,'2023-02-05');
-
+SELECT * FROM subjectmatterexperts;
 
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('OOPS',1);
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('Collection',1);
@@ -65,10 +65,9 @@ INSERT INTO evaluationcriterias(title,subjectid) VALUES('DataAccess',3);
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('Multithreading',3);
 
 
-
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('JSON',5);
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('Components',6);
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('OOPS',7);
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('Multithreading',7);
 INSERT INTO evaluationcriterias(title,subjectid) VALUES('Loops',7);
-
+SELECT * FROM evaluationcriterias;
