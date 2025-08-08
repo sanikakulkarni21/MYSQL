@@ -274,3 +274,4 @@ VALUES (
     'a',
     '10'
 );
+SELECT * FROM questionbank;
