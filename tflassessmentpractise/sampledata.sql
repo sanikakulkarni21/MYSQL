@@ -287,3 +287,5 @@ VALUES
 ('Full-Length Programming Test', 4, "01:30:00", 2, '2023-09-05', '2023-10-10', '2024-01-18', 5, 'scheduled'),
 ('Quick Aptitude Test', 7, "00:30:00", 7, '2024-01-01', '2024-01-01', '2024-01-10', 6, 'scheduled'),
 ('Logical Reasoning Test', 7, "00:30:00", 7, '2024-01-01', '2024-01-01', '2024-01-10', 7, 'created')
+
+SELECT * FROM tests;
