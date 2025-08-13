@@ -60,6 +60,8 @@ create table questionbank (
 	CONSTRAINT fk_qbank_eval_evalid FOREIGN KEY(evaluationcriteriaid) REFERENCES evaluationcriterias(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
+SELECT* FROM questionbank;
+
 
 create table tests (
 	id INT PRIMARY KEY AUTO_INCREMENT,
