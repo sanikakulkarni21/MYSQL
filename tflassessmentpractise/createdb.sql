@@ -77,7 +77,7 @@ create table tests (
 	CONSTRAINT fk_tests_subjects_subjectid FOREIGN KEY(subjectid) REFERENCES subjects(id) ON UPDATE CASCADE ON DELETE CASCADE,
 	CONSTRAINT fk_tests_sme_smeid FOREIGN KEY(smeid) REFERENCES subjectmatterexperts(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
-
+SELECT * FROM tests;
 
 
 create table testassessmentcriterias(
