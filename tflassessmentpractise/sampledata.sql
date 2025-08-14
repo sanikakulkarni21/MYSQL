@@ -319,3 +319,19 @@ INSERT INTO testquestions(testid, questionbankid)VALUES(1,7);
 INSERT INTO testquestions(testid, questionbankid)VALUES(1,8);
 INSERT INTO testquestions(testid, questionbankid)VALUES(1,9);
 INSERT INTO testquestions(testid, questionbankid)VALUES(1,10);
+
+
+-- Second Test
+-- Create test2 with 10 questions
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,5);
+
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,6);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,8);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,7);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,9);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,16);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,17);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,18);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,19);
+INSERT INTO testquestions(testid, questionbankid)VALUES(2,20);
+ 
