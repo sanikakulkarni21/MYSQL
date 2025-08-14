@@ -290,3 +290,17 @@ VALUES
 ('Logical Reasoning Test', 7, "00:30:00", 7, '2024-01-01', '2024-01-01', '2024-01-10', 7, 'created')
 
 SELECT * FROM tests;
+
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(1,4);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(1,2);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(2,2);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(2,4);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(1,3);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(5,4);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(2,3);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(1,5);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(3,1);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(4,5);
+
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(7,8);
+INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(8,8);
