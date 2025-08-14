@@ -304,7 +304,7 @@ INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(4,5);
 
 INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(7,8);
 INSERT INTO testassessmentcriterias(testid, evaluationcriteriaid)VALUES(8,8);
-
+SELECT * FROM testassessmentcriterias;
 
 --Create test1 with 10 questions
 
