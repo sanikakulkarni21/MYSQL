@@ -335,3 +335,15 @@ INSERT INTO testquestions(testid, questionbankid)VALUES(2,18);
 INSERT INTO testquestions(testid, questionbankid)VALUES(2,19);
 INSERT INTO testquestions(testid, questionbankid)VALUES(2,20);
  
+
+ -- Create test3 with 10 questions
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,15);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,16);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,23);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,5);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,6);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,20);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,27);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,28);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,29);
+INSERT INTO testquestions(testid, questionbankid)VALUES(3,30);
