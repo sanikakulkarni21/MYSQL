@@ -347,3 +347,17 @@ INSERT INTO testquestions(testid, questionbankid)VALUES(3,27);
 INSERT INTO testquestions(testid, questionbankid)VALUES(3,28);
 INSERT INTO testquestions(testid, questionbankid)VALUES(3,29);
 INSERT INTO testquestions(testid, questionbankid)VALUES(3,30);
+
+-- Create test8 with 10 questions
+
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,21);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,22);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,23);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,24);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,25);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,26);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,27);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,28);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,29);
+INSERT INTO testquestions(testid, questionbankid)VALUES(8,30);
+
