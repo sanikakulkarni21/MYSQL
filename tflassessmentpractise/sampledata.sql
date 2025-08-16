@@ -373,3 +373,4 @@ INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,8,'d
 INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,9,'a');
 INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,10,'a');
 
+SELECT * FROM candidateanswers;
