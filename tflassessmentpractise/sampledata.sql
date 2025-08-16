@@ -361,3 +361,15 @@ INSERT INTO testquestions(testid, questionbankid)VALUES(8,28);
 INSERT INTO testquestions(testid, questionbankid)VALUES(8,29);
 INSERT INTO testquestions(testid, questionbankid)VALUES(8,30);
 
+-- First Candidate Answser sheet
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,1,'b');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,2,'c');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,3,'a');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,4,'a');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,5,'b');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,6,'c');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,7,'d');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,8,'d');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,9,'a');
+INSERT INTO candidateanswers(candidateid, testquestionid,answerkey)VALUES(1,10,'a');
+
