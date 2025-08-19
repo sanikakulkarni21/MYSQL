@@ -138,10 +138,10 @@ Create table interviewcriterias(
 	CONSTRAINT fk_evalriterias_evalcriteaid FOREIGN KEY(evaluationcriteriaid) REFERENCES evaluationcriterias(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-Create table interviewresults(
+/*Create table interviewresults(
 	id INT PRIMARY KEY AUTO_INCREMENT,
 	interviewcriteriaid INT,
 	ratings INT,
 	comments VARCHAR(200),
 	CONSTRAINT fk_intresults_intcrite_intcriteid FOREIGN KEY(interviewcriteriaid) REFERENCES interviewcriterias(id) ON UPDATE CASCADE ON DELETE CASCADE
-);
+);*/
