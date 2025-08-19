@@ -119,7 +119,7 @@ create table candidatetestresults(
     CONSTRAINT fk_test_testid FOREIGN KEY (testid) REFERENCES tests(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
 
-
+--interviews table
 Create table interviews(
 	id INT PRIMARY KEY AUTO_INCREMENT,
 	interviewdate DATE,
