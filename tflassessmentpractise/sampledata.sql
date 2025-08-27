@@ -335,7 +335,7 @@ INSERT INTO testquestions(testid, questionbankid)VALUES(2,18);
 INSERT INTO testquestions(testid, questionbankid)VALUES(2,19);
 INSERT INTO testquestions(testid, questionbankid)VALUES(2,20);
  
-
+--test 3
  -- Create test3 with 10 questions
 INSERT INTO testquestions(testid, questionbankid)VALUES(3,15);
 INSERT INTO testquestions(testid, questionbankid)VALUES(3,16);
