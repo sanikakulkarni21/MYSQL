@@ -87,7 +87,7 @@ create table testassessmentcriterias(
 	CONSTRAINT fk_as_tests_testid FOREIGN KEY(testid) REFERENCES tests(id) ON UPDATE CASCADE ON DELETE CASCADE,
 	CONSTRAINT fk_as_evalcriteria_evalcaritid FOREIGN KEY(evaluationcriteriaid) REFERENCES evaluationcriterias(id) ON UPDATE CASCADE ON DELETE CASCADE
 );
-
+SELECT * FROM testassessmentcriterias;
 
 create table testquestions(
 	id INT  PRIMARY KEY AUTO_INCREMENT,
