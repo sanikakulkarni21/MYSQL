@@ -1,5 +1,5 @@
 DELIMITER //
-
+--
 CREATE PROCEDURE RegisterUser(
     IN p_username VARCHAR(50),
     IN p_password VARCHAR(255),
